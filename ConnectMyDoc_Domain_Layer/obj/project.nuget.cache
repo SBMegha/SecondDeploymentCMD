@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7Qj8Xaj9kI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Megha\\Desktop\\CMD_FinalProject(backendDeployment)\\ConnectMyDoc_Domain_Layer\\ConnectMyDoc_Domain_Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Megha\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Megha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Megha\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Megha\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

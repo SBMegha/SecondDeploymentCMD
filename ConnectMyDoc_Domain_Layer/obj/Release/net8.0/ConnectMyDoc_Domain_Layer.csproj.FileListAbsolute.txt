@@ -1,0 +1,14 @@
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\bin\Release\net8.0\Resources\PatientCustomExceptions.xml
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\bin\Release\net8.0\ConnectMyDoc_Domain_Layer.deps.json
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\bin\Release\net8.0\ConnectMyDoc_Domain_Layer.dll
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\bin\Release\net8.0\ConnectMyDoc_Domain_Layer.pdb
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.csproj.AssemblyReference.cache
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.AssemblyInfoInputs.cache
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.AssemblyInfo.cs
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.sourcelink.json
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.dll
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\refint\ConnectMyDoc_Domain_Layer.dll
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ConnectMyDoc_Domain_Layer.pdb
+C:\Users\Megha\Desktop\CMD_FinalProject(backendDeployment)\ConnectMyDoc_Domain_Layer\obj\Release\net8.0\ref\ConnectMyDoc_Domain_Layer.dll

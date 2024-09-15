@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ConnectMyDoc_API_Layer.props" />
+</Project>
